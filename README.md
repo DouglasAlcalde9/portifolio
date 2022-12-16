@@ -1,3 +1,1 @@
-Meu primeiro projeto criado.
-
-Atualizando para testar
+Meu primeiro Projeto
